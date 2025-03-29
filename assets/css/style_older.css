@@ -1,0 +1,20 @@
+header{
+    background-color: blue;
+    color: #ffff;
+    height: 20px;
+}
+
+aside{
+    background-color: green;
+    color: white;
+    float: left;
+    height: 250px;
+    width: 20%;
+}
+main{
+    background-color: aqua;
+    color: black;
+    float: left;
+    height: 250px;
+    width: 80%;
+}
